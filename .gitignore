@@ -400,4 +400,4 @@ FodyWeavers.xsd
 # Node modules package
 node_modules
 firstt/node_modules
-
+firstt/.env
